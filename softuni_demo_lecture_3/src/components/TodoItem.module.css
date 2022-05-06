@@ -1,0 +1,7 @@
+.todo-item {
+    color: blueviolet;
+}
+
+.todo-item-finished {
+    text-decoration: line-through;
+}
