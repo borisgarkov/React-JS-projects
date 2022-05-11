@@ -1,0 +1,4 @@
+.active-nav-link {
+    text-decoration: line-through;
+    color: blueviolet;
+}
