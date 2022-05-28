@@ -10,6 +10,8 @@ export default function ShopItem({
     let params = useParams();
     let navigate = useNavigate();
 
+    Object.fromEntries()
+
     const selectedShoppingItem = shopItems.filter(x => x.shoppingItemNumber === params.itemID)[0];
 
     return (

@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import { shopItems } from '../services/shopServices';
+import { Suspense } from 'react';
 
 export default function ShopPage() {
 
